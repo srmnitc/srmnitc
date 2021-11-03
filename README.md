@@ -3,7 +3,7 @@
 I'm Sarath Menon, currently a doctoral candidate at the [Interdisciplinary Centre for Advanced Materials Simulation](http://www.icams.de/content/) at [Ruhr Universität Bochum](https://www.ruhr-uni-bochum.de/en). I love using C++ and python to write scientific programs. Find out more about me [here](https://sarathmenon.me/).
 
 ## GitHub stats
-![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=srmnitc&show_icons=true&theme=light)
+![Sarath's GitHub stats](https://github-readme-stats.vercel.app/api?username=srmnitc&show_icons=true&theme=light&count_private=true)
 
 <!--
 **srmnitc/srmnitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
